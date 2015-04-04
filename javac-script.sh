@@ -1,0 +1,1 @@
+javac -d build/classes -sourcepath src/main/java:libSrc/javax.inject-1-sources.jar:libSrc/dagger-2.0-SNAPSHOT-sources.jar:libSrc/json-20140107-sources.jar src/main/java/com/example/SomeClassX.java
