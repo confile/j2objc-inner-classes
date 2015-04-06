@@ -17,3 +17,9 @@ Translated 34 methods as functions
 ```
 
 Note that the inner class ``JSONObject.Null`` raises a warning.
+
+
+Note
+===
+
+I know that ``org.json.*`` is part of the translated classes in j2objc, but it is used only to demonstrate the problem.
